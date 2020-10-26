@@ -1,0 +1,28 @@
+body {
+  background: url(FONDO.png) no-repeat top center;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+
+}
+
+
+
+form {
+width: 50%;
+border: 0.188em solid black; /* 3/16 */
+margin-top: 15em;
+margin-left: 20em;
+margin-right: 18em;
+background-color: #FFF;
+background-image:;
+opacity: .8;
+box-shadow: 7px 7px 7px 7px #000;
+}
+
+
+label {
+  display: block;
+}
+input {
+  width: 90%
+}
